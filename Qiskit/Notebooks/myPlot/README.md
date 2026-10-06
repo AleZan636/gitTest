@@ -1,7 +1,7 @@
 # myPlot — Plot di funzioni matematiche in Python
 *(English version below)*
 
-L'esempio che segue serve a dimostare la corretta implementazione di Jupyter Notebook.
+Gli esempi che seguono sono usati per verificare che Jupyter Notebook sia installato correttamente.
 Nei file '.pdf', presenti in questa directory, sono visualizzati gli esiti attesi: da usarsi come confronto.
 Per eseguire il file, caricare in Jupyter Notebook il file e mandare in esecuzione 'Run - Run All Cells'
 
